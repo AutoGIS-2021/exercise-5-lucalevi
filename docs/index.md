@@ -16,7 +16,7 @@ In order to access the files via the links, you need to set the repository as pu
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
+ - [My static map](https://github.com/AutoGIS-2021/exercise-5-lucalevi/blob/main/docs/static_map_online.png)
  - [My interactive map](https://github.com/AutoGIS-2021/exercise-5-lucalevi/blob/main/docs/switzerland.html)
  
  You can check syntax for formatting the links in here: 
